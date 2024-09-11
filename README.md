@@ -27,6 +27,8 @@ The repository contains files that contain the following topic:
 **Lec 2**
 - **Linear Regression**: formal defn, layman exp, examples
 
+**Lec 3**
+- **Gradient Descent**: formal defn, layman exp, examples
   
 ## How to Use
 - Clone this repository to have offline access to the notes:
