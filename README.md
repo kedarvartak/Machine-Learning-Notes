@@ -24,6 +24,9 @@ The repository contains files that contain the following topic:
 - **Unsupervised Learning**: Clustering etc.
 - **Libraries and Frameworks used**: TensorFlow, PyTorch etc.
 
+**Lec 2**
+- **Linear Regression**: formal defn, layman exp, examples
+
   
 ## How to Use
 - Clone this repository to have offline access to the notes:
