@@ -32,6 +32,9 @@ The repository contains files that contain the following topic:
 
 **Lec 4**
 - **Multiclass Classification**: one vs all / one vs rest, one vs one
+
+  **Lec 5**
+- **ML Learning process flow and evaluation metrics**: ML learning process, Confusion Matrix, Evaluation metrics - Precision , Recall, Accuracy, F1-Score(Binary and Multiclassification)
   
 ## How to Use
 - Clone this repository to have offline access to the notes:
