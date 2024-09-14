@@ -29,6 +29,9 @@ The repository contains files that contain the following topic:
 
 **Lec 3**
 - **Gradient Descent**: formal defn, layman exp, examples
+
+**Lec 4**
+- **Multiclass Classification**: one vs all / one vs rest, one vs one
   
 ## How to Use
 - Clone this repository to have offline access to the notes:
